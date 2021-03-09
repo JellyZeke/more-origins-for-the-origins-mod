@@ -19,8 +19,12 @@ Fresh Air: You need to sleep at an altitude of atleast 86 blocks.
 
 Vegetarian: The player can't digest any type of meat.
 
-Sunny Buff: The player layer gets strength 1 while in the sun
+Sunny Buff: The player gets strength 1 while in the sun.
+
+Sunny De-Buff: The player gets hunger 1 while in the sun.
 
 Rainy Buff: The player gets speed 2 while getting soaked by the rain.
+
+Rainy De-Buff: The player gets weakness 2 while getting soaked by the rain.
 
 That is my Origin that I have done so far. If you have any ideas for a new Origin, DM me on Discord, KrusticKrispix#7640 is my Discord.
