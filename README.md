@@ -23,6 +23,4 @@ Sunny Buff: The player layer gets strength 1 while in the sun
 
 Rainy Buff: The player gets speed 2 while getting soaked by the rain.
 
-I decided to get rid of the Balanced Herobrine Origin, sorry if you liked it.
-
-That is my Origin that I have done so far. If you have any ideas for a new Origin, DM me on Discord, JellyBee#7640 is my Discord.
+That is my Origin that I have done so far. If you have any ideas for a new Origin, DM me on Discord, KrusticKrispix#7640 is my Discord.
